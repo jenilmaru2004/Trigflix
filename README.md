@@ -9,15 +9,16 @@
 ### 📘 Learn Module  
 Students can explore key trigonometric concepts through guided lessons and visuals. The interface provides clear illustrations to explain sine, cosine, and tangent graphs and their transformations.
 
-<img width="664" alt="image" src="https://github.com/user-attachments/assets/beb34a20-93c0-4167-bcb0-15e1a5d8d04e" />
 <img width="662" alt="image" src="https://github.com/user-attachments/assets/5be705ab-70d7-47d8-99b1-152073c142e6" />
+<img width="661" alt="image" src="https://github.com/user-attachments/assets/ccb049ab-0b95-4466-b99d-1427d2580a5c" />
 
 ---
 
 ### ❓ Practice Module  
-Players can reinforce their learning through multiple-choice questions. The system provides instant feedback and tracks their score, offering hints for deeper understanding.
+Players can reinforce their learning through multiple-choice questions by choosing the correct graph. The system provides instant feedback and tracks their score, offering hints for deeper understanding.
 
-<img width="1165" alt="image" src="https://github.com/user-attachments/assets/af4da806-2106-41c2-a7c0-578c07ed0dda" />
+<img width="986" alt="image" src="https://github.com/user-attachments/assets/7e17906b-5158-4c33-a956-ac162876b718" />
+<img width="1066" alt="image" src="https://github.com/user-attachments/assets/e24cb9b8-4ed5-4a78-a05a-5045a0463aa4" />
 
 ---
 
